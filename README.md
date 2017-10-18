@@ -42,6 +42,9 @@
 - [Plotly.Js](https://plot.ly/javascript/)
 - [Plotly.Js - Github](https://github.com/plotly/plotly.js)
 
+## Kubernetes
+- [Kubernetes](https://kubernetes.io/)
+
 ## Blogs
 - [Scott Hanselman](https://www.hanselman.com/blog/)
 - [Angular Magazine Flipboard](https://flipboard.com/@dwahlin/the-angular-magazine-f66o0fd8y)
