@@ -34,6 +34,7 @@
 
 ### CSS
 - [Bootstrap](https://getbootstrap.com/)
+- [how-to-use-bootstrap-4-with-sass-in-angular](https://stackoverflow.com/questions/45660802/how-to-use-bootstrap-4-with-sass-in-angular)
 
 ### JavaScript
 
@@ -68,6 +69,6 @@
 - [Coding Blocks - Podcasts](https://www.codingblocks.net/category/podcast/)
 
 ## Misc
-[Spotify](https://play.spotify.com)
-[Sha1](http://www.sha1-online.com/)
-[Dict.cc](https://www.dict.cc)
+-[Spotify](https://play.spotify.com)
+-[Sha1](http://www.sha1-online.com/)
+- [Dict.cc](https://www.dict.cc)
