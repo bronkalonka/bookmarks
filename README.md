@@ -69,6 +69,6 @@
 - [Coding Blocks - Podcasts](https://www.codingblocks.net/category/podcast/)
 
 ## Misc
--[Spotify](https://play.spotify.com)
--[Sha1](http://www.sha1-online.com/)
+- [Spotify](https://play.spotify.com)
+- [Sha1](http://www.sha1-online.com/)
 - [Dict.cc](https://www.dict.cc)
